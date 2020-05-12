@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: lucianobwille.github.io
+Token: 2babeb6c8672af7d4281d2e91c8d5f7aa3b81706ca4e152fe1c1dd2ddb23b696
