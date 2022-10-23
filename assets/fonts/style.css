@@ -1,0 +1,170 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?25vxb7');
+  src:  url('fonts/icomoon.eot?25vxb7#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?25vxb7') format('truetype'),
+    url('fonts/icomoon.woff?25vxb7') format('woff'),
+    url('fonts/icomoon.svg?25vxb7#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-stackoverflow:before {
+  content: "\e900";
+  color: #fe7a16;
+}
+.icon-youtube:before {
+  content: "\e902";
+  color: #f00;
+}
+.icon-java:before {
+  content: "\e903";
+  color: #007396;
+}
+.icon-typescript:before {
+  content: "\e904";
+  color: #007acc;
+}
+.icon-python:before {
+  content: "\e905";
+  color: #3776ab;
+}
+.icon-powershell:before {
+  content: "\e906";
+  color: #5391fe;
+}
+.icon-spring:before {
+  content: "\e908";
+  color: #6db33f;
+}
+.icon-mongodb:before {
+  content: "\e909";
+  color: #47a248;
+}
+.icon-postgresql:before {
+  content: "\e90a";
+  color: #336791;
+}
+.icon-mysql:before {
+  content: "\e90b";
+  color: #4479a1;
+}
+.icon-amazonaws:before {
+  content: "\e90c";
+}
+.icon-grafana:before {
+  content: "\e90d";
+  color: #f46800;
+}
+.icon-rabbitmq:before {
+  content: "\e90e";
+  color: #f60;
+}
+.icon-apachekafka:before {
+  content: "\e90f";
+}
+.icon-jenkins:before {
+  content: "\e910";
+  color: #d24939;
+}
+.icon-ansible:before {
+  content: "\e911";
+  color: #e00;
+}
+.icon-kubernetes:before {
+  content: "\e912";
+  color: #326ce5;
+}
+.icon-git:before {
+  content: "\e913";
+  color: #f05032;
+}
+.icon-github:before {
+  content: "\e914";
+}
+.icon-javascript:before {
+  content: "\e915";
+  color: #f7df1e;
+}
+.icon-docker:before {
+  content: "\e916";
+  color: #1488c6;
+}
+.icon-node-dot-js:before {
+  content: "\e917";
+  color: #393;
+}
+.icon-react:before {
+  content: "\e918";
+  color: #61dafb;
+}
+.icon-css3:before {
+  content: "\e919";
+  color: #1572b6;
+}
+.icon-html5:before {
+  content: "\e91a";
+  color: #e34f26;
+}
+.icon-codepen:before {
+  content: "\e91b";
+}
+.icon-leetcode:before {
+  content: "\e91c";
+  color: #f89f1b;
+}
+.icon-hackerrank:before {
+  content: "\e91d";
+  color: #2ec866;
+}
+.icon-behance:before {
+  content: "\e91e";
+  color: #1769ff;
+}
+.icon-blogger:before {
+  content: "\e91f";
+  color: #ff5722;
+}
+.icon-github1:before {
+  content: "\e920";
+}
+.icon-whatsapp:before {
+  content: "\e921";
+  color: #25d366;
+}
+.icon-gmail:before {
+  content: "\e922";
+  color: #d14836;
+}
+.icon-linkedin:before {
+  content: "\e923";
+  color: #0077b5;
+}
+.icon-arrow-up:before {
+  content: "\e924";
+}
+.icon-close:before {
+  content: "\e901";
+}
+.icon-menu:before {
+  content: "\e907";
+}
+.icon-terminal:before {
+  content: "\ea81";
+}
