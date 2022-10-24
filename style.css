@@ -406,6 +406,11 @@ nav.show div.icon-close {
   color: var(--title-color-second);
 }
 
+#contact .text a {
+  width: fit-content;
+  text-decoration: underline;
+}
+
 /* ========== FOOTER ========== */
 .back-to-top {
   background-color: var(--base-color);
