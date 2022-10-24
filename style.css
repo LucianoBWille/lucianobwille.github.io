@@ -176,7 +176,7 @@ body {
 }
 
 .section:nth-child(1) {
-  background-color: transparent;
+  background-color: none;
 }
 
 .section .title {
@@ -374,8 +374,9 @@ nav.show div.icon-close {
   height: 100%;
   width: 100%;
   object-fit: cover;
-  opacity: 40%;
+  opacity: 50%;
   z-index: -1;
+  filter: blur(4px);
 }
 
 #home.section .title {
