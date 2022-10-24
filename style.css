@@ -103,6 +103,8 @@ body {
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(7px);
   background: hsla(0, 0%, 0%, 0.60);
+
+  justify-content: center;
 }
 
 .grid {
